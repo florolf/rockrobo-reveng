@@ -368,3 +368,10 @@ misc guesses
      (maybe changes AXP223 power on trigger? suddenly, the allwinner boots on pressing the boot button)
 
  PD3, PD4 -> sleeping, AP handshaking
+
+Allwinner pinout
+================
+
+SWD towards STM32
+PB6 -> SWDIO
+PB7 -> SWCLK
